@@ -1,5 +1,5 @@
 {
-  "name": "xls-to-json",
+  "name": "excel2json",
   "version": "1.0.1",
   "description": "to convert xls sheets to json",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pouc/xls-to-json.git"
+    "url": "git+https://github.com/pouc/excel2json.git"
   },
   "author": "pouc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pouc/xls-to-json/issues"
+    "url": "https://github.com/pouc/excel2json/issues"
   },
-  "homepage": "https://github.com/pouc/xls-to-json#readme"
+  "homepage": "https://github.com/pouc/excel2json#readme"
 }
